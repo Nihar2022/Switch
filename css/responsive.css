@@ -1,0 +1,329 @@
+/*// X-Small devices (portrait phones, less than 576px)*/
+@media (min-width: 320px) and (max-width: 575px){ 
+
+/*headr part responsive start*/
+
+.me-3 {
+    margin-right: 10rem!important;
+}
+.banner_content h1{
+
+	font-size: 21px;
+	margin-bottom: 25px;
+	margin-top: 50px;
+}
+.bg_button button{
+	
+	padding: 5px 20px;
+	border-radius: 25px;
+	font-size: 15px;
+	
+	margin-bottom: 50px;
+}
+.sm_button button{
+
+	
+	padding: 4px 15px;
+	font-weight: 300;
+	font-size: 14px;	
+}
+/*headr part responsive end*/
+
+/*testimonial part responsive start*/
+.carousel_content p{
+	
+	font-weight: 300;
+	font-size: 12px;
+	margin-left: 40px;
+	margin-right: 40px	
+}
+.carousel_content h5{
+
+	font-size: 15px;
+	
+}
+.carousel_content h6{
+
+	font-weight: 500;
+	font-size: 14px;
+	
+}
+.carousel_content img {
+    
+    bottom: 0;
+    left: 65px;
+}
+
+.carousel-control-prev{
+
+	width: 25px;
+	height: 25px;	
+}
+.carousel-control-next{
+
+	width: 25px;
+	height: 25px;
+}
+/*testimonial part responsive end*/
+
+/*client part responsive start*/
+.clint_head p{
+
+	margin-bottom: 40px;
+	
+}
+
+.client_icone1{
+
+	text-align: left;
+}
+.client_icone2{
+	text-align: right;
+}
+.client_icone3{
+	text-align: left;
+	margin-top: 40px;
+}
+
+.client_icone4{
+	text-align: right;
+	margin-top: 40px;
+}
+/*client part responsive end*/
+
+
+/*footer part responsive start*/
+.post_content p{
+
+	
+	font-size: 12px;
+	margin-bottom: -2px;
+	
+}
+.nytime{
+
+	width: 50%;
+	height: auto;
+}
+/*footer part responsive end*/	
+
+
+	 }
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767px){ 
+
+	.me-3 {
+    margin-right: 15rem!important;
+}
+/*banner part responsive start*/
+
+.banner_content h1{
+
+	font-size: 35px;
+	margin-bottom: 30px;
+	margin-top: 90px;
+	
+}
+.bg_button button{
+	
+	padding: 5px 25px;
+	border-radius: 25px;
+	font-size: 15px;
+	
+	margin-bottom: 70px;
+}
+.sm_button button{
+
+	
+	padding: 4px 15px;
+	font-weight: 300;
+	font-size: 14px;	
+}
+/*banner part responsive start*/	
+
+/*photography responsive start*/
+
+.photography_img span{
+	display: none;
+}
+
+/*photography responsive end*/	
+/*testimonial part responsive start*/
+.carousel_content p{
+	
+	
+	font-size: 14px;
+	margin-left: 40px;
+	margin-right: 40px	
+}
+.carousel_content img {
+    bottom: 0px;
+    left: 125px;
+}
+
+/*testimonial part responsive end*/
+
+/*client part responsive start*/
+.clint_head p{
+
+	margin-bottom: 40px;
+	
+}
+
+.client_icone1,.client_icone2{
+
+	text-align: center;
+}
+
+.client_icone3,.client_icone4{
+	text-align: center;
+	margin-top: 40px;
+}
+
+
+/*client part responsive end*/
+
+
+
+	 }
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991px) { 
+
+.me-3 {
+    margin-right: 25rem!important;
+}
+
+/*banner part responsive start*/
+.banner_content h1 {
+    
+    font-size: 45px;
+    margin-bottom: 20px;
+    margin-top: 90px;
+    
+}
+
+.bg_button button {
+    
+    padding: 5px 25px;
+    border-radius: 30px;
+    
+    margin-bottom: 90px;
+}
+
+/*banner part responsive end*/
+
+/*what we do responsive start*/
+.divice_content p {
+    
+    font-size: 11px;
+    
+}
+.divice_content button {
+    padding: 2px 15px;
+    
+    border-radius: 30px;    
+}
+/*what we do responsive end*/
+
+/*testimonial part responsive start*/
+
+.carousel_content img {
+    
+    bottom: 0px;
+    left: 142px;
+}
+.carousel_content p {
+    
+    font-size: 11px;    
+}
+.carousel-control-prev{
+
+	width: 25px;
+	height: 25px;	
+}
+
+.carousel-control-next{
+
+	width: 25px;
+	height: 25px;	
+}
+
+/*testimonial part responsive end*/
+
+/*team part responsive start*/
+.picture img {
+
+	height: 100%;
+	width: 100%;
+	object-fit: contain;
+}
+
+.team_image h5 {
+    
+    font-size: 12px;   
+}
+.team_image button {
+    padding: 2px 6px;
+    
+}
+	
+/*footer part responsive end*/
+	 }
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199px) {
+
+	/*nav part responsive start*/
+
+	.navbar-nav .navbar-brand {
+    margin-right: 200px;    
+}
+
+.navbar-brand img{
+
+	margin-top: 5px;
+}
+/*nav part responsive end*/
+
+/*testimonial part responsive start*/
+
+.carousel_content p {
+    
+    font-size: 14px;
+    
+}
+.carousel_content img {
+    
+    bottom: 0px;
+    left: 220px;
+}
+
+
+/*reservation part responsive end*/
+
+
+ }
+/*// X-Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399px) { 
+
+	
+
+
+
+
+	 }
+
+/*// XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+	
+	.me-3 {
+    margin-right: 9rem!important;
+}
+
+	 }
+
+
+
